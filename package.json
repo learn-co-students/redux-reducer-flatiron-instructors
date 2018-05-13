@@ -12,17 +12,15 @@
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/redux-reducer.git"
   },
-  "keywords": [
-    "javascript",
-    "flatiron",
-    "learn"
-  ],
+  "keywords": ["javascript", "flatiron", "learn"],
   "author": "The Flatiron School",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/introduction-to-react-assessment/issues"
+    "url":
+      "https://github.com/learn-co-curriculum/introduction-to-react-assessment/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/introduction-to-react-assessment#readme",
+  "homepage":
+    "https://github.com/learn-co-curriculum/introduction-to-react-assessment#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.18.0",
@@ -36,7 +34,6 @@
     "jsdom": "^9.4.1",
     "mocha": "^3.0.1",
     "mocha-multi": "^0.9.1",
-    "node-inspector": "^0.12.8",
     "sinon": "^1.17.6"
   },
   "dependencies": {
